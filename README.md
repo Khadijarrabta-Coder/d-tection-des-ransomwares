@@ -18,12 +18,6 @@ Il analyse le comportement des logiciels via leurs appels API système afin de d
 - Pandas & NumPy
 - Matplotlib 
 
-## Installation
-- Clone the repository:
-   ```bash
-   git clone https://github.com/Khadijarrabta-Coder/ransomware-detection-ml.git
-   ```
-
 ## Results
 
 | Modèle | Accuracy | F1-Score | AUC-ROC |
@@ -32,4 +26,10 @@ Il analyse le comportement des logiciels via leurs appels API système afin de d
 | Random Forest + TVAE | 89.83% | 89.80% | 0.9661 |
 | SVM + CTGAN | 89.83% | 89.80% | 0.9602 |
 | KNN + TVAE | 88.98% | 88.98% | 0.9498 |
+
+## Installation
+- Clone the repository:
+   ```bash
+   git clone https://github.com/Khadijarrabta-Coder/ransomware-detection-ml.git
+   ```
 
